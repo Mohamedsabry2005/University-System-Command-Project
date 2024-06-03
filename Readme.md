@@ -36,7 +36,7 @@ This Python command-line application provides a user-friendly interface for mana
 ![demo project Gif](./demoProject.gif)
 
 ```
-$ python main.py
+$ python project.py
 
 Welcome to Our University system:
 
